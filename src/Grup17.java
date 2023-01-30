@@ -5,6 +5,8 @@ public class Grup17 {
 
             System.out.println("Ben Uğur");
 
+            System.out.println("Ben Necla");
+
         }
     }
 }
